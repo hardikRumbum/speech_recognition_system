@@ -16,6 +16,7 @@ git clone https://github.com/hardikRumbum/speech_recognition_system.git
 4. Install the required Python libraries using pip. Run the following command in your command prompt or terminal window:
 
 ```bash
+  cd speech_recognition_system
   pip install -r requirements.txt
 ```
   This will install all the necessary libraries listed in the requirements.txt file.
